@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+.pipi {
+	font-family: "Madimi One", sans-serif;
+    color: #FF0003;
+    font-size: 22px;
+    font-weight: bold;
+}
+.pupu {
+    color: #692F30;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+}
+#lala {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: italic;	
+	
+}
+
+.mybox {
+    width: 600px;
+    height: 150px;
+    margin-top: 114px;
+    margin-right: 114px;
+    margin-bottom: 114px;
+    margin-left: 114px;
+    background-color: #6D2B2C;
+}
+
+.btn-danger {
+	background-color: #6D2B2C;
+	
+	
+	
+	
+	
+}
+
+
+.mybgcell1 {
+    background-color: #9B96D5;	
+	
+}
+
+.mybgcell2 {
+    background-color: #09FF30;	
+	
+	
+	
+}
+
+.mybgcell3 {
+    background-color: #54719A;	
+	
+	
+}
+
+.mybgcell4 {
+    background-color: #CB4C4E;	
+	
+	
+}
+
+

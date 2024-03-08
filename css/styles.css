@@ -14,7 +14,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #978A96;
 }
 
 .resume-main {
@@ -22,7 +22,8 @@ body {
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+    background-color: #250E49;
+    color: #FFFFFF;
 }
 
 /* Styles for lists in the document */
@@ -40,12 +41,24 @@ body {
 }
 
 .biography-details li, .skill-list li {
-	padding-left: 1em;
+    padding-left: 1em;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 }
+
 
 /* Styles for contact icons */
 
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+
+.taris-style {
+    color: #FFFFFF;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+
+.fst-italic {
+    color: #FFFFFF;
 }
